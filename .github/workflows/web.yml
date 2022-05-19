@@ -5,7 +5,7 @@ name: Web Automation Java with Maven
 
 on:
   push:
-    branches: [ testing ]
+    branches: [ master ]
   pull_request:
     branches: [ master ]
 
